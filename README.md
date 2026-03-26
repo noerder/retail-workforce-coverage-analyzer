@@ -1,2 +1,8 @@
 # retail-workforce-coverage-analyzer
-Workforce analytics project analyzing retail staffing coverage, fill rates, and understaffing trends using Python and Tableau
+While working in retail operations, I noticed that staffing decisions were often based on intuition rather than data. Scheduling felt abstract, especially during busy periods, and employee concerns about being understaffed were difficult to validate or address without clear evidence. This often led to frustration on both sides, as managers had no concrete data to justify staffing decisions, and employees felt their concerns lacked acknowledgment.
+
+To address this, I built a workforce analytics tool that simulates realistic retail scheduling data. Instead of relying on incomplete or messy real-world data, I generated a dataset that reflects common operational patterns, including higher staffing demand during peak hours and increased call-out rates on weekends. This allowed me to focus on analyzing staffing efficiency and identifying coverage gaps.
+
+Through this analysis, I identified consistent understaffing during peak shifts, particularly around mid-day and afternoon hours, as well as increased staffing volatility on weekends due to higher call-out rates. These patterns highlighted a misalignment between staffing levels and actual demand.
+
+By visualizing these insights in a Tableau dashboard, this project demonstrates how data can be used to support more informed staffing decisions. Managers can use this type of analysis to justify scheduling choices and proactively adjust staffing during high-risk periods, while employees gain transparency into how and why staffing levels are determined. Ultimately, this shifts scheduling from a subjective process to a data-driven one.
